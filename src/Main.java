@@ -7,5 +7,4 @@ public class Main {
 		greeter.setGerman();
 		System.out.println(greeter.greet());
 	}
-
 }
